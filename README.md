@@ -1,6 +1,10 @@
 # Project Overview
 
-In this project I am given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where I come in.
+![A site that collects multiple feeds, publications and news updates for specific sites](https://github.com/byn3/frontend-nanodegree-feedreader/blob/master/FeedCollector.png
+)
+
+In this project I am given a web-based application that reads RSS feeds. 
+Jamine is used to test the site. The test suite is well rounded and covers many exceptions and issues.
 
 
 
